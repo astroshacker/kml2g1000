@@ -1,5 +1,5 @@
 # kml2g1000
-Convert FlightAware KML tracklogs to G1000 CSV for importing to ForeFlight
+Convert FlightAware KML tracklogs to G1000 CSV for importing to ForeFlight. Adapted from Aleiby's script with updates to time conversion format for compatibility with KML downloads from ADSBexchange.
 
 ## Usage
 1. Download KML tracklogs from flightaware.com or https://www.adsbexchange.com
